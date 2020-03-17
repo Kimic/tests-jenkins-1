@@ -1,1 +1,1 @@
-echo 'Hola mundo' %date% %time% 'Fin'
+echo 'Hola mundo' %date% %time%
